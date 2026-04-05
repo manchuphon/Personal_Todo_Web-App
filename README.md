@@ -191,10 +191,6 @@ docker build --no-cache -t personal-todo-app .
 - [ ] Collaborative todos
 - [ ] Mobile app version
 
-## 📄 License
-
-MIT License - feel free to use and modify for your own projects!
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -207,4 +203,4 @@ MIT License - feel free to use and modify for your own projects!
 
 **Happy Todo Management! 🎉**
 
-สร้างโดย [Your Name] สำหรับการจัดการงานอย่างมีประสิทธิภาพ
+สร้างโดย Manchuphon Thiptanesuan สำหรับการจัดการงานอย่างมีประสิทธิภาพ
